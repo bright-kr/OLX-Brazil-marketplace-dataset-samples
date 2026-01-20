@@ -3,7 +3,7 @@
 <h2>1,000개 레코드로 구성된 샘플 데이터셋</h2>
 
 <a href="https://brightdata.co.kr">
-    <img src="https://github.com/luminati-io/OLX-Brazil-marketplace-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-kr/OLX-Brazil-marketplace-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 이 **OLX Brazil Marketplace Ads Dataset Sample**에는 **1,000개 레코드**가 포함되어 있으며, **Bright Data API**를 사용하여 추출되었습니다.
