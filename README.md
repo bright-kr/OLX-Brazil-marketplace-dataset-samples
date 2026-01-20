@@ -1,4 +1,4 @@
-# OLX Brazil Marketplace Ads Dataset Sample
+# OLX Brazil Marketplace Ads 데이터셋 샘플
 
 <h2>1,000개 레코드로 구성된 샘플 데이터셋</h2>
 
